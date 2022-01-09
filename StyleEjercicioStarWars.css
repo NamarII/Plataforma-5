@@ -1,0 +1,23 @@
+.losMalos{
+    background-color: red;
+}
+.losBuenos{
+    background-color: blue;
+}
+
+#tamañoFuente{
+    font-size: 32px;
+}
+#italica{
+    font-style: italic;
+}
+.apoyo{
+    text-align: center;
+}
+.borde{
+    border:  2px olive dashed;
+    letter-spacing: 10px;
+}
+.nave{
+    text-transform: uppercase;
+}
